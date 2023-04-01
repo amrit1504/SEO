@@ -1,0 +1,57 @@
+.body{
+    font-family: "Montserrat" , sans-serif;
+}
+
+/* NAVBAR */
+.c1{
+    padding: 2% 5% 0% 5% ;
+}
+
+.head-tags{
+    margin-left: 40px;
+}
+.nav-link{
+    margin: 0 5px 0 5px;
+}
+.btn{
+    background-color: #5955B3;
+    color: #fff;
+    font-size: 17px;
+}
+.btn:hover{
+    background-color: #716dde;
+    color: #fff;
+}
+/* About */
+.about{
+    display: flex
+}
+.about-head{
+    font-size: 60px;
+    color: #3B2D5F;
+}
+.about-info{
+    font-size: 13.9px;
+    margin: 15px 0 15px 0;
+    color: #575757;
+}
+.about-text{
+    margin-top: 150px ;
+    margin-left: 5%;
+}
+.crush{
+    font-size: 60px;
+    color: #5955B3;
+}
+.your{
+    color: #3B2D5F;
+}
+.about-img{
+  margin-top: -10px;
+}
+.img1{
+    width: 820px;
+}
+.btn-service{
+    margin-top: 40px;
+}
